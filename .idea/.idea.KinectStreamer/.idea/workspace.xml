@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4086b53b-2b32-45cb-8a14-29d33905ccd4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PointsSender.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KinectStreamer/PointsSender.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-289">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <marker date="1527847565049" expanded="false" signature="6:108" ph="..." />
+                <marker date="1527847565049" expanded="true" signature="134:5571" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="159:5569" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="314:626" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="427:506" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="539:616" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="636:789" ph="/// This method is used when the stream has to send a point cloud over network (usually one for each frame). ... " />
+                <marker date="1527847565049" expanded="true" signature="847:1642" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="906:1014" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="1334:1523" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="1408:1509" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="1555:1632" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="1652:1897" ph="/// This method is used to convert a point cloud to byte arrays (in order to send them over network), each array  ... " />
+                <marker date="1527847565049" expanded="true" signature="1977:5320" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="2464:5245" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="2534:2600" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="2743:4051" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="2909:3003" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="3395:3502" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="3527:3673" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="5355:5563" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="5381:5444" ph="{...}" />
+                <marker date="1527847565049" expanded="true" signature="5476:5553" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SkullSender</find>
+      <find>PointCloud</find>
+      <find>ConvertVerticesToByteArrays</find>
+      <find>PointsSender</find>
+      <find>new Stream</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../TheiaData/Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/FrameProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/KinectController.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/PointsSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6FA22D47-ED94-410A-A9E0-113442E2E495/e7/5e540ad6/UdpClient.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/Properties/Settings.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/Properties/Resources.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/KinectController.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KinectStreamer/Stream.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TheiaData/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KinectStreamer/PointsSender.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1100" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KinectStreamer (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KinectStreamer (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KinectStreamer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KinectStreamer (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TheiaData" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Projets/TheiaVR_Unity/TheiaVR_Unity.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/KinectStreamer/bin/Debug/KinectStreamer.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KinectStreamer/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KinectStreamer/KinectStreamer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4086b53b-2b32-45cb-8a14-29d33905ccd4" name="Default" comment="" />
+      <created>1527355753663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527355753663</updated>
+      <workItem from="1527355755226" duration="488000" />
+      <workItem from="1527518638147" duration="3696000" />
+      <workItem from="1527529492556" duration="617000" />
+      <workItem from="1527605052114" duration="1855000" />
+      <workItem from="1527672364640" duration="632000" />
+      <workItem from="1527684583317" duration="625000" />
+      <workItem from="1527689881443" duration="27000" />
+      <workItem from="1527846495773" duration="3869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11809000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32905984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.152349" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="XAML Preview" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32905984" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1527002972533" expanded="false" signature="6:151" ph="..." />
+            <marker date="1527002972533" expanded="true" signature="177:3354" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="201:3352" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="303:568" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="370:449" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="481:558" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="578:699" ph="/// This method is used when the stream has to send a skeleton over network. ... " />
+            <marker date="1527002972533" expanded="true" signature="751:2196" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="1142:2124" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2250:3103" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2786:2922" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2954:3031" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3138:3346" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3164:3227" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3259:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1527002972533" expanded="false" signature="6:151" ph="..." />
+            <marker date="1527002972533" expanded="true" signature="177:3354" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="201:3352" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="303:568" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="370:449" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="481:558" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="578:699" ph="/// This method is used when the stream has to send a skeleton over network. ... " />
+            <marker date="1527002972533" expanded="true" signature="751:2196" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="1142:2124" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2250:3103" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2786:2922" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2954:3031" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3138:3346" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3164:3227" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3259:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1527002972533" expanded="false" signature="6:151" ph="..." />
+            <marker date="1527002972533" expanded="true" signature="177:3354" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="201:3352" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="303:568" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="370:449" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="481:558" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="578:699" ph="/// This method is used when the stream has to send a skeleton over network. ... " />
+            <marker date="1527002972533" expanded="true" signature="751:2196" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="1142:2124" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2250:3103" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2786:2922" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2954:3031" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3138:3346" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3164:3227" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3259:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1527002972533" expanded="false" signature="6:151" ph="..." />
+            <marker date="1527002972533" expanded="true" signature="177:3354" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="201:3352" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="303:568" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="370:449" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="481:558" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="578:699" ph="/// This method is used when the stream has to send a skeleton over network. ... " />
+            <marker date="1527002972533" expanded="true" signature="751:2196" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="1142:2124" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2250:3103" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2786:2922" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2954:3031" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3138:3346" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3164:3227" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3259:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1527002972533" expanded="false" signature="6:151" ph="..." />
+            <marker date="1527002972533" expanded="true" signature="177:3354" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="201:3352" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="303:568" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="370:449" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="481:558" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="578:699" ph="/// This method is used when the stream has to send a skeleton over network. ... " />
+            <marker date="1527002972533" expanded="true" signature="751:2196" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="1142:2124" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2250:3103" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2786:2922" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2954:3031" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3138:3346" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3164:3227" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3259:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1527002972533" expanded="false" signature="6:151" ph="..." />
+            <marker date="1527002972533" expanded="true" signature="177:3354" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="201:3352" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="303:568" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="370:449" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="481:558" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="578:699" ph="/// This method is used when the stream has to send a skeleton over network. ... " />
+            <marker date="1527002972533" expanded="true" signature="751:2196" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="1142:2124" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2250:3103" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2786:2922" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2954:3031" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3138:3346" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3164:3227" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3259:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/KinectController.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="42" column="142" selection-start-line="42" selection-start-column="142" selection-end-line="42" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/KinectController.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6FA22D47-ED94-410A-A9E0-113442E2E495/e7/5e540ad6/UdpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/SkullSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <marker date="1527002972533" expanded="false" signature="6:151" ph="..." />
+            <marker date="1527002972533" expanded="true" signature="177:3354" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="201:3352" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="303:568" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="370:449" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="481:558" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="578:699" ph="/// This method is used when the stream has to send a skeleton over network. ... " />
+            <marker date="1527002972533" expanded="true" signature="751:2196" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="1142:2124" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2250:3103" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2786:2922" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="2954:3031" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3138:3346" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3164:3227" ph="{...}" />
+            <marker date="1527002972533" expanded="true" signature="3259:3336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/FrameProcessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+          <folding>
+            <marker date="1527002972377" expanded="false" signature="6:107" ph="..." />
+            <marker date="1527002972377" expanded="true" signature="133:9772" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="160:9770" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="967:1304" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="1482:5833" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="1763:4552" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="2055:4538" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="2117:2256" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="2302:2426" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="2959:3725" ph="/* int countDepth = 0; ... */" />
+            <marker date="1527002972377" expanded="true" signature="3981:4458" ph="/* int counter = 0; ... */" />
+            <marker date="1527002972377" expanded="true" signature="4588:5823" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="4690:5809" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="4897:5790" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="4968:5768" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="5206:5599" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="5843:6010" ph="/// This method is called to initialize values for the frame processor (executed only once, when the first frame  ... " />
+            <marker date="1527002972377" expanded="true" signature="6123:6671" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="6816:9331" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="7270:9292" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="7342:9278" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="7521:9260" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="8203:8566" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="8570:9192" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="8625:9037" ph="/* Console.WriteLine(&quot;ERROR ON COLOR POINT&quot;); ... */" />
+            <marker date="1527002972377" expanded="true" signature="9381:9511" ph="{...}" />
+            <marker date="1527002972377" expanded="true" signature="9561:9764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/Stream.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="118" selection-start-line="25" selection-start-column="118" selection-end-line="25" selection-end-column="118" />
+          <folding>
+            <marker date="1527002972564" expanded="false" signature="6:133" ph="..." />
+            <marker date="1527002972564" expanded="true" signature="159:2796" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="166:289" ph="/// Main worker thread (start senders and frame processor, then open kinect and wait). ... " />
+            <marker date="1527002972564" expanded="true" signature="306:2524" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="796:1186" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="1196:1269" ph="/// Worker thread main loop. ... " />
+            <marker date="1527002972564" expanded="true" signature="1298:2013" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="1374:1492" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="1496:1628" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="1742:1857" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="2023:2120" ph="/// This method is called to stop the worker thread. ... " />
+            <marker date="1527002972564" expanded="true" signature="2154:2206" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="2216:2340" ph="/// This method is used by the streamer to display messages in the GUI console. ... " />
+            <marker date="1527002972564" expanded="true" signature="2388:2518" ph="{...}" />
+            <marker date="1527002972564" expanded="true" signature="2611:2794" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TheiaData/Data.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527002972814" expanded="false" signature="6:49" ph="..." />
+            <marker date="1527002972814" expanded="true" signature="70:5360" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="77:229" ph="/* A vertex is a pair of coordinates and color information. ... */" />
+            <marker date="1527002972814" expanded="true" signature="272:3345" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="787:977" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="1061:1253" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="1290:1598" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="1647:2018" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="2080:3015" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="2217:2978" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="3074:3339" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="3208:3303" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="3350:3468" ph="/* Tag associated to each joint type in a skeleton. ... */" />
+            <marker date="1527002972814" expanded="true" signature="3521:4132" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="4137:4211" ph="/* Point cloud data as transmitted by the Kinect Streamer ... */" />
+            <marker date="1527002972814" expanded="true" signature="4239:4810" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="4365:4385" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="4425:4804" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="4675:4794" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="4815:4886" ph="/* Skeleton data as transmitted by the Kinect Streamer ... */" />
+            <marker date="1527002972814" expanded="true" signature="4931:5358" ph="{...}" />
+            <marker date="1527002972814" expanded="true" signature="5295:5352" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KinectStreamer/PointsSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <marker date="1527847565049" expanded="false" signature="6:108" ph="..." />
+            <marker date="1527847565049" expanded="true" signature="134:5571" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="159:5569" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="314:626" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="427:506" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="539:616" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="636:789" ph="/// This method is used when the stream has to send a point cloud over network (usually one for each frame). ... " />
+            <marker date="1527847565049" expanded="true" signature="847:1642" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="906:1014" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="1334:1523" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="1408:1509" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="1555:1632" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="1652:1897" ph="/// This method is used to convert a point cloud to byte arrays (in order to send them over network), each array  ... " />
+            <marker date="1527847565049" expanded="true" signature="1977:5320" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="2464:5245" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="2534:2600" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="2743:4051" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="2909:3003" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="3395:3502" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="3527:3673" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="5355:5563" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="5381:5444" ph="{...}" />
+            <marker date="1527847565049" expanded="true" signature="5476:5553" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
