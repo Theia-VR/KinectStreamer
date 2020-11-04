@@ -108,7 +108,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\TheiaData\TheiaData.csproj">
+    <ProjectReference Include="..\TheiaData\TheiaData.csproj">
       <Project>{10acf83b-ead7-4d5a-a9a7-1c14721a21e1}</Project>
       <Name>TheiaData</Name>
     </ProjectReference>
